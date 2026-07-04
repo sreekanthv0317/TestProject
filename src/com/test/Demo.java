@@ -6,7 +6,6 @@ public class Demo {
 		
 		System.out.println("====TEST DEMO=====");
 		System.out.println("Hello World");
-		System.out.println("Test Hello World");
 		System.out.println("Test 123");
 
 	}
